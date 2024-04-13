@@ -12,6 +12,8 @@
 
 * **Cognito:** Individual compute nodes within each Cortex, providing the processing power for video tasks.
 
+* **Percept:** Specialized nodes responsible for capturing, pre-processing, and uploading video data from various sources into the network.
+
 ## Key Features:
 
 * **Decentralization:** Eliminates reliance on central servers, enhancing security and resilience.
